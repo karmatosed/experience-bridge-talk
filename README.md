@@ -16,7 +16,6 @@ Companion repo to JS for WP talk: The User Experience Bridge
 * [Micro intercations and their macro effect on your UX](blog.appsee.com/microinteractions-and-their-macro-effect-on-your-ux)
 * [User experience is everyone's responsibility](medium.com/flexport-design/user-experience-is-everyones-responsibility-39101cb4f75a)
 * [How to write an error message](medium.com/@thomasfuchs/how-to-write-an-error-message-883718173322#.n75owf21y)
-* 
 
 ## Recommended books
 * [‘30-Second Psychology: The 50 Most Thought-provoking Psychology Theories, Each Explained in Half a Minute‘](https://www.amazon.co.uk/gp/product/B009KKN07G/ref=oh_aui_search_detailpage?ie=UTF8&psc=1) by Jarrett, Christian.
