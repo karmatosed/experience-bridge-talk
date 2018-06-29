@@ -1,6 +1,8 @@
 # experience-bridge-talk
 Companion repo to JS for WP talk: The User Experience Bridge
 
+[Slides](https://github.com/karmatosed/experience-bridge-talk/blob/master/theuserexperiencebridge.pdf)
+
 ## Talk reference links
 * [User experience honeycomb](semanticstudios.com/user_experience_design)
 * [User experience is everybody's job](williamgill.de/2016/05/30/user-experience-is-everybodys-job/)
